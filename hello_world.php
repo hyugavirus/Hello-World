@@ -4,4 +4,8 @@
  */
 
 echo 'Hello World';
+
+function A() {
+    echo 'Hello World';
+}
 ?>
