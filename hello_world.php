@@ -1,6 +1,7 @@
 <?php
 /**
  * feature-A
+ * fix-B
  */
 
 echo 'Hello World';
